@@ -1,2 +1,2 @@
 # Tugas3-Content-Based-Filtering
-Merekomendasikan Perusahaan dari Program Studi Independent dan Magang Dari Kampus Merdeka
+Merekomendasikan Perusahaan dari Program Magang dan Studi Independent Kampus Merdeka
